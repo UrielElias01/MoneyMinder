@@ -1,7 +1,7 @@
 # MoneyMinder
 Proyecto desarrollado por:
 - Cruz Breña Daniela Janeth
-- Elías Velázquez ÁNGEL Uriel
+- Elías Velázquez Ángel Uriel
 - Garay García Omar Ricardo
 
 ## Enunciado de Visión
@@ -14,16 +14,14 @@ Desarrollar una aplicación de gestión de finanzas personales para dispositivos
 - **Framework:** Flutter
 - **Backend:** Firebase (Firestore para la base de datos, Firebase Authentication para la autenticación)
 - **Notificaciones Push:** Firebase Cloud Messaging
-- **Integraciones Bancarias:** APIs de agregación financiera (por ejemplo, Plaid, Yodlee)
 - **Control de Versiones:** Git
-- **IDE:** Visual Studio Code o Android Studio
+- **IDE:** Visual Studio Code 
+- **Emulador:** Android Studio
 
 ## Hardware Empleado
 
 - **Dispositivo Wearable:** Smartwatches compatibles con Wear OS o Apple Watch
-- **Sensores:** Integración con sensores del dispositivo wearable para posibles futuras funcionalidades (como pagos NFC)
 - **Smartphone:** Dispositivos iOS o Android para la sincronización y configuración inicial
-- **Servidor en la Nube:** Google Cloud Platform para alojamiento y servicios backend
 
 ## Historias de Usuario
 
